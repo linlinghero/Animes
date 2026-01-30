@@ -35,4 +35,15 @@ Capitulo 11
 https://be2719.rcr22.ams01.i8yz83pn.com/hls2/04/05945/8rbewawh4rmv_,h,o,.urlset/master.m3u8?t=Lx9bhuVhcNmrNbfqUl1cYz_wz5eVUKfqjirzN2gl_ck&s=1761004431&e=10800&f=29729915&srv=1075&asn=267828&sp=4000&p=
 
 Capitulo 12 FINAL
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/09/06002/32nypjubwjam_h/master.m3u8?t=1ISVqQpydMRaOt4K9EspgQAz6pMxoHwsHGUSZMQNjYo&s=1761004459&e=10800&f=30010671&srv=1055&asn=267828&sp=4000&p=
+
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/09/06002/32nypjubwjam_h/master.m3u8?t=1ISVqQpydMRaOt4K9EspgQAz6pMxoHwsHGUSZMQNjYo&s=1761004459&e=10800&f=30010671&srv=1055&asn=267828&sp=4000&p=   
+
+https://nika.playmudos.com/NE1McnQ1SVcyaG1ETGlsUFFqeHpITHZxZDh6N1FHSWd6SzRVZ1lIV2txWT0.m3u8?st=HBgTISmTtq_lsoKYcLgRTw&e=1769756227
+
+https://be6721.rcr72.waw04.r66nv9ed.com/hls2/04/10628/qo2satt820b5_h/master.m3u8?t=BHdbNUhDmvcf7SjaxWehk_Vroue4Bx3jULBOGBQzb-o&s=1769745697&e=10800&f=53141429&srv=1065&asn=13335&sp=4000&p=0
+
+https://be6721.rcr72.waw04.r66nv9ed.com/hls2/04/10628/qo2satt820b5_h/index-v1-a1.m3u8?t=BHdbNUhDmvcf7SjaxWehk_Vroue4Bx3jULBOGBQzb-o&s=1769745697&e=10800&f=53141429&srv=1065&asn=13335&sp=4000&p=0
+
+https://be6721.rcr72.waw04.r66nv9ed.com/hls2/01/10671/n3r7y45i8444_h/index-v1-a1.m3u8?t=FOxLRHtmA9PMxOLZ0Xl-wQnGKDhGhOH1myIEOVMGHd0&s=1769745805&e=10800&f=53355074&srv=1065&asn=13335&sp=4000&p=0
+
+https://be6721.rcr72.waw04.r66nv9ed.com/hls2/01/10671/n3r7y45i8444_h/master.m3u8?t=FOxLRHtmA9PMxOLZ0Xl-wQnGKDhGhOH1myIEOVMGHd0&s=1769745805&e=10800&f=53355074&srv=1065&asn=13335&sp=4000&p=0
