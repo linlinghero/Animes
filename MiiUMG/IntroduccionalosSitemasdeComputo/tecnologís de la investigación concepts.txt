@@ -1,0 +1,49 @@
+¿Qué es una computadora?
+
+MOD1_COMPU.jpg
+
+Es un sistema digital con tecnología microelectrónica capaz de procesar información a partir de un grupo de instrucciones denominado programas.
+La estructura básica de una computadora incluye:
+Microprocesador (CPU)
+Memoria
+Dispositivos de entrada y de salida
+Buses de comunicación.
+Componentes principales de una computadora
+
+Procesador
+
+MOD1_CPU.jpg
+
+Se trata de un componente complejo, pero que nada más y nada menos se refiere a la parte central de una computadora, su cerebro.
+CPU son las siglas de Central Processing Unit (Unidad Central de Procesamiento).  Se trata de uno de los componentes vitales de cualquier unidad tecnológica a nivel de computadoras o incluso, a nivel de tecnologías nuevas como smartphone, smart tv, entre otros.
+También tradicionalmente llamado microprocesador, se encarga de procesar todas las instrucciones del dispositivo, leyendo las órdenes y requisitos del sistema operativo, así como las instrucciones de cada uno de los componentes y aplicaciones.
+Es el encargado de que todo funcione correctamente y de interpretar todo lo que el Sistema Operativo o cualquiera de sus componentes quiera hacer, estableciendo la comunicación y realizando los cálculos precisos para que el dispositivo funciones correctamente.
+Te has preguntado: ¿Por que al presionar una tecla, sale exactamente la letra y/o número y/o símbolo que reconocemos en el teclado?
+Esto es básicamente lo que busca orquestar el CPU, hacer coherente las acciones realizadas por un usuario, y traducido a lenguaje de máquina para que se cumpla exactamente lo que se quiere.
+Sugeriré revisar el contenido del siguiente link:  Procesadores
+ 
+
+MEMORIA
+
+MOD1_MEMORA.jpg
+
+Es uno de los elementos más importantes para que todo funcione de forma correcta.
+Sin una memoria, básicamente la computadora no podría ni siquiera arrancar.
+La palabra "Memoria" es un término genérico usado par designar las partes de la computadora o de los dispositivos periféricos donde todos los datos y programas son almacenados.
+Lo primero que debemos saber es que cuando hablamos exclusivamente de la computadora, la memoria se ubica dentro del "case" o gabinete, acoplado a una tarjeta o placa denominada "Mother Board" o Tarjeta Madre.
+Insertadas en la tarjeta madre, se encuentran entonces 2 tipos de memoria utilizadas por una computadora: La memoria RAM y la denominada memoria ROM.
+Memoria RAM:
+Conocida también como Random Access Memory (Memoria de Acceso Aleatorio), es la encargada del almacenamiento temporal que guarda los programas y los datos que están siendo procesados, lo cual se realiza solamente durante el procesamiento (o en tiempo de ejecución).
+Es una memoria volátil, es decir que los datos sólo permanecen en ella almacenados mientras la computadora está encendida.
+Al apagarse una computadora, todos los datos almacenados en la memoria RAM desaparecen.
+La capacidad de memoria RAM en una computadora, puede darnos un indicio de las cosas que podemos realizar de forma concurrente.  Entre más memoria, mayor es la capacidad de ejecutar programas de forma paralela en tiempo real (ojo que también la capacidad, tamaño o velocidad de un procesador, marcan esta diferencia).
+Memoria ROM:
+Conocida también como Read Only Memory (Memoria sólo de lectura), se trata de la memoria que es utilizada solo para almacenar aplicaciones y/o datos permanentes o raramente alterados en una computadora.
+La información regularmente es colocada en el chipo de almacenamiento cuando es fabricado y el contenido de la ROM no puede ser alterado por un programa de usuario (word, excel, etc.)  Por ello su calificación de "memoria de solo lectura".
+La ROM se constituye en un chip que posee un software determinado y no programado por el usuario.  De esta forma es hardware y software a la vez, por lo que estaría dentro de la categoría denominada firmware.
+¿Cómo saber si mi PC necesita más RAM?
+Lo primero que debemos analizar es si somos usuarios que utilizamos al mismo tiempo varios programas o navegadores con muchas pestañas abiertas. Si es así, es claro que esto repercutirá en el rendimiento del equipo. Por ello la mejor solución en estos casos es mejorar la cantidad de memoria RAM y aplicar las actualizaciones del software y del sistema operativo que utilizamos.
+
+En el caso de aquellos usuarios que por lo general utilizan Internet usando varios navegadores y pestañas simultáneamente, lo mejor también será aumentar la memoria RAM, ya que los procesos se realizarán sobre ella y no sobre el disco rígido, obteniendo de esta manera una navegación realmente más rápida, mostrando una mejorada fluidez en las animaciones Flash, por ejemplo.
+
+Otro de los puntos a tener en cuenta es si compartimos recursos, es decir que si nuestra computadora forma parte de una red, lo más probable es que ello repercute negativamente en el rendimiento del equipo. También aquí, ampliar la RAM nos permitirá optimizar este factor, mejorando el rendimiento general y de dispositivos como las impresoras.
