@@ -1,6 +1,6 @@
-#EXTM3U 
-#EXTINF: -1 tvg-id="318998" tvg-name="001 - Cinecanal HD" tvg-logo="" group-title="-",001 - Cinecanal HD
-http://181.119.93.57:8000/play/a0c4/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Video Prueba 2" group-title="Pruebas",Video de Prueba OneDrive 2
+https://onedrive.live.com/download?cid=2a31cb3f7a20a6b5&resid=2a31cb3f7a20a6b5!IQSRvF1NGTnHQqLInzZLM5_qAQmugj1b-WlX8rqs2o6Y-MQ
 #EXTINF: -1 tvg-id="759968" tvg-name="A&E HD" tvg-logo="" group-title="-",A&E HD
 http://181.119.93.57:8000/play/a0qo/index.m3u8
 #EXTINF: -1 tvg-id="627477" tvg-name="AMC HD" tvg-logo="" group-title="-",AMC HD
