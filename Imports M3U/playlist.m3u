@@ -7,3 +7,6 @@
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 group-title="MIS VIDEOS",Video 12
 https://archive.org/download/12_20260617/12.mp4
+#EXTM3U
+#EXTINF:-1 tvg-name="Cibelles",Cibelles
+https://mis-images-seguros.netlify.app/Cibelles/output.m3u8
