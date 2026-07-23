@@ -1,34 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Video Prueba 2" group-title="Pruebas",Video de Prueba OneDrive 2
-https://onedrive.live.com/download?cid=2a31cb3f7a20a6b5&resid=2a31cb3f7a20a6b5!IQSRvF1NGTnHQqLInzZLM5_qAQmugj1b-WlX8rqs2o6Y-MQ
-#EXTINF: -1 tvg-id="759968" tvg-name="A&E HD" tvg-logo="" group-title="-",A&E HD
-http://181.119.93.57:8000/play/a0qo/index.m3u8
-#EXTINF: -1 tvg-id="627477" tvg-name="AMC HD" tvg-logo="" group-title="-",AMC HD
-http://181.119.93.57:8000/play/a0su/index.m3u8
-#EXTINF: -1 tvg-id="903930" tvg-name="ATV" tvg-logo="" group-title="-",ATV
-http://181.119.93.57:8000/play/a0y6/index.m3u8
-#EXTINF: -1 tvg-id="161007" tvg-name="ATV HD" tvg-logo="" group-title="-",ATV HD
-http://181.119.93.57:8000/play/a0ww/index.m3u8
-#EXTINF: -1 tvg-id="407358" tvg-name="ATV+ Noticias HD" tvg-logo="" group-title="-",ATV+ Noticias HD
-http://181.119.93.57:8000/play/a0wv/index.m3u8
-#EXTINF: -1 tvg-id="653029" tvg-name="AXN HD" tvg-logo="" group-title="-",AXN HD
-http://181.119.93.57:8000/play/a0ry/index.m3u8
-#EXTINF: -1 tvg-id="823630" tvg-name="America TV HD" tvg-logo="" group-title="-",America TV HD
-http://181.119.93.57:8000/play/a0cn/index.m3u8
-#EXTINF: -1 tvg-id="895312" tvg-name="America TV HD" tvg-logo="" group-title="-",America TV HD
-http://181.119.93.57:8000/play/a0uu/index.m3u8
-#EXTINF: -1 tvg-id="344603" tvg-name="Animal Planet HD" tvg-logo="" group-title="-",Animal Planet HD
-http://181.119.93.57:8000/play/a0rp/index.m3u8
-#EXTINF: -1 tvg-id="135674" tvg-name="BETHEL TV" tvg-logo="" group-title="-",BETHEL TV
-http://181.119.93.57:8000/play/a0r4/index.m3u8
-#EXTINF: -1 tvg-id="897930" tvg-name="CHV HD" tvg-logo="" group-title="-",CHV HD
-http://181.119.93.57:8000/play/a0v5/index.m3u8
-#EXTINF: -1 tvg-id="502279" tvg-name="CNN Chile" tvg-logo="" group-title="-",CNN Chile
-http://181.119.93.57:8000/play/a0v7/index.m3u8
-#EXTINF: -1 tvg-id="282891" tvg-name="Cinema Premium Xtreme" tvg-logo="" group-title="-",Cinema Premium Xtreme
-http://181.119.93.57:8000/play/a0xp/index.m3u8
-#EXTINF: -1 tvg-id="974338" tvg-name="Willax HD" tvg-logo="" group-title="-",Willax HD
-http://181.119.93.57:8000/play/a0x1/index.m3u8
+#
 https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
 https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
 https://raw.githubusercontent.com/Kewsito/lista-deportes-argentina/refs/heads/main/lista.m3u8
@@ -42,3 +12,7 @@ https://rainbow-alfajores-d479f3.netlify.app/Capitulo8/Tensai8.m3u8
 https://ephemeral-salamander-558bd5.netlify.app/Capitulo9/Tensai9.m3u8
 https://ephemeral-salamander-558bd5.netlify.app/DBSBroly/DBSBrolyLat.m3u8
 https://ephemeral-salamander-558bd5.netlify.app/SonoCapitulo1/M3Sono1.m3u8
+https://kaleidoscopic-sable-c62db2.netlify.app/buta/Girl.m3u8
+https://kaleidoscopic-sable-c62db2.netlify.app/precalculoN1/Binomio.m3u8
+https://kaleidoscopic-sable-c62db2.netlify.app/Discreta/Matediscreta.m3u8
+https://kaleidoscopic-sable-c62db2.netlify.app/Lineal/matrices.m3u8
